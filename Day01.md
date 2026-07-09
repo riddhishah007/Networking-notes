@@ -1,0 +1,302 @@
+# Day 1 - Internet Basics
+
+**What is Internet?**
+
+The Internet is a global system that connects computers and devices worldwide, enabling communication, information sharing, and access to digital services.
+
+
+
+Connects people and devices globally
+
+Enables communication, learning, and business
+
+Supports digital services and cloud platforms
+
+Operates using standard communication protocols
+
+Forms the backbone of modern digital life
+
+
+
+The Internet originated in the 1960s with the development of ARPANET (Advanced Research Projects Agency Network). It was designed to allow multiple computers to communicate within a single network an achievement that was revolutionary at the time.
+
+
+
+ARPANET used packet switching, a method that breaks data into packets for efficient transmission. In October 1969, the first message was successfully sent between two computers using ARPANET. From that moment, internet technology continued to evolve rapidly.
+
+
+
+**How is the Internet Set Up?**
+
+The Internet relies on physical infrastructure such as:
+
+
+
+Optical fiber cables
+
+Copper wires
+
+Networking systems like LAN, WAN, and MAN
+
+Mobile technologies like 2G, 3G, 4G, and Wi-Fi also depend on these physical cable networks to function.
+
+
+
+The organization ICANN (Internet Corporation for Assigned Names and Numbers), based in the USA, manages essential Internet components such as IP addresses, the Domain Name System (DNS), and global protocols to ensure smooth connectivity.
+
+
+
+**How Does the Internet Work?**
+
+The Internet operates using a client–server model:
+
+
+
+**Client:** A device such as a laptop or smartphone connected to the Internet
+
+**Server:** Powerful computers that store websites and data
+
+
+
+Step-by-step working:
+
+
+
+The client sends a request through a browser
+
+The server identifies the website using its IP address
+
+DNS converts the domain name into an IP address
+
+The request is routed to the correct server
+
+The server processes the request and returns the webpage
+
+
+
+Example:
+
+Just as a name can help locate a person’s Aadhaar number, a domain name helps DNS find the correct IP address.
+
+
+
+Mobile Internet: Optical cables → towers → devices via electromagnetic waves
+
+Wired Internet: Fiber optics → router → Ethernet cables → computer
+
+
+
+**what is a network?**
+
+Computer network is a collection of interconnected devices that communicate with each other to exchange data and resources. It enables efficient communication and supports services like email, file sharing, and internet access.
+
+
+
+Nodes are physical devices such as computers, mobiles, or printers.
+
+Routers and switches control the flow of information.
+
+Transmission media carry data from one device to another.
+
+Wired media includes Ethernet and optical fiber cables.
+
+
+
+Working:
+
+Computer network operates by enabling devices to communicate and exchange data using a shared communication system. Each device in the network follows predefined rules to ensure that data is transmitted accurately, efficiently, and securely.
+
+
+
+**Types of Networks:-**
+
+Networks are categorized based on their use and size. For example, while a network may exist in a home or small business, another may span large corporate environments or extensive geographical areas. LAN, MAN, and WAN are the three main types of networks designed to operate over different coverage areas. They share some similarities and differences, with the most significant difference being the geographical area they cover: LAN covers a house or building, MAN covers a city, and WAN can cover countries or even continents.
+
+
+
+**Local Area Network (LAN)**
+
+A Local Area Network (LAN) is a computer network that covers a geographically limited area. This type of network is generally used to connect devices within a home, office, or building. LANs facilitate rapid data transfer between devices, resource sharing (e.g., printers and files), and the availability of applications over the network.
+
+
+
+Covers a small area, allowing high\*speed data transfer.
+
+Typically offers data transfer speeds of Gbps (Gigabits per second).
+
+Devices within the network can share common resources such as printers, files, and other network resources.
+
+Security protocols or network security devices can be used to protect the data within the network and prevent unauthorized access.
+
+
+
+**Wide Area Network (WAN)**
+
+A Wide Area Network (WAN) is a type of network that connects computers and networks spread over large geographical areas. WANs make communication between cities, countries, and even continents possible by linking distant networks and facilitating the transmission of data, voice, and video over long distances. Since WANs cover a vast area, the Internet itself can be considered a type of WAN.
+
+
+
+Unlike LANs, WANs serve very large geographical areas.
+
+Various communication technologies such as fiber optic cables, satellite links, and telephone lines can be used in a WAN.
+
+Because WANs cover wide geographical areas, their setup and maintenance are generally costly.
+
+WANs offer lower data transfer speeds compared to LANs, as data travels much longer distances.
+
+WANs enable global communication and resource sharing.
+
+
+
+**Metropolitan Area Network (MAN)**
+
+A Metropolitan Area Network (MAN) is a type of network that connects computer networks and devices spread across a city\*scale geographical area. MANs can cover several buildings in a university campus, different parts of a city, or even several nearby cities. Located somewhere between WAN and LAN, MANs are ideal for regional data communication needs.
+
+
+
+MANs typically extend over an area as large as a city, covering kilometers of distance.
+
+MANs provide high bandwidth and high\*speed data transmission, allowing for the rapid transfer of large files and data.
+
+Different organizations and users can share resources (software, hardware, data storage, etc.) over a MAN.
+
+A MAN can be easily expanded and customized to meet specific needs.
+
+MANs are preferred for the integration of public services such as city administrations, public safety, healthcare, and educational institutions.
+
+MAN setup and management is typically performed by Internet Service Providers (ISPs) or the IT departments of large organizations.
+
+
+
+**Internet/Intranet Network**
+
+Internet
+
+
+
+The Internet is a vast network connecting billions of devices worldwide. It enables the exchange of data, information sharing, communication, and many online transactions. The Internet has a global network infrastructure that allows users and systems in different geographical locations to interact with each other.
+
+
+
+Intranet
+
+
+
+An Intranet is a private network designed for a limited group of users within an organization or institution. It is typically used to provide access to corporate resources such as company information, employee resources, and internal communication tools. Unlike the Internet, an Intranet is closed to the general public and only allows access to specified users.
+
+
+
+**Internet Service Provider (ISP)**
+
+An Internet Service Provider (ISP) is an organization that enables users to access the Internet through various network technologies.
+
+Provides connectivity via fiber-optic, cable, DSL, mobile broadband, or satellite.
+
+Offers IP address allocation, email services, and network security features.
+
+Delivers technical support and customer assistance for network-related issues.
+
+Several major ISPs operate globally.
+
+Examples include Verizon Fios (USA), AT\&T (USA), Google Fiber (USA), and JioFiber (India)
+
+
+
+**What Do Internet Service Providers (ISPs) Do?**
+
+Deliver internet connectivity and related digital services to users. Their primary functions include:
+
+
+
+Internet Access: Provide connectivity through DSL, fiber-optic, cable, or wireless technologies.
+
+Web Hosting: Offers server space and services for hosting websites.
+
+Email Services: Provide email accounts for personal and business communication.
+
+Online Security: Supply security features such as antivirus protection, firewalls, and spam filtering.
+
+Technical Support: Assist users in troubleshooting network and connectivity issues.
+
+Domain Registration: Enable users to register and manage domain names.
+
+Bundled Services: Offer combined packages including internet, television, telephone, and streaming services.
+
+
+
+**Router**
+
+A router is a network device that connects different networks and directs data packets to their destinations.
+
+Used in homes and offices, routers allow multiple devices to share an internet connection and manage network traffic.
+
+Routers provide security by controlling data flow between different networks.
+
+Routers direct data packets based on IP addresses, ensuring that data reaches its destination on the internet.
+
+They enable multiple devices to share a single internet connection, allowing all devices in a home or office to connect to the internet.
+
+
+
+**Switch**
+
+A switch is a network device that manages data transmission between devices within a network. It connects to each device in the network and sends data only to the intended recipient. This optimizes network traffic and prevents data collisions. Switches operate based on MAC addresses, identifying each device's unique address on the network and directing data accordingly.
+
+
+
+Assigns a MAC address to each port and transmits data based on these addresses.
+
+Reduces network traffic by sending data only to the necessary ports.
+
+Modern switches offer various features (VLAN support, QoS settings) that simplify network management.
+
+Types of Switches
+
+
+
+Unmanaged Switch: These switches have a simple plug-and-play design and do not offer advanced configuration options. They are suitable for small networks or as an extension to a larger network.
+
+
+
+Managed Switch: These switches offer advanced configuration options such as VLANs, QoS, and link aggregation. They are suitable for larger, more complex networks and allow for centralized management.
+
+
+
+Smart Switch: Similar to managed switches in that they offer advanced features, but they are generally easier to set up and manage. They are ideal for small to medium-sized networks.
+
+
+
+**Modem**
+
+A modem stands for "modulator-demodulator."
+
+It converts analog signals from the internet service provider to digital data and vice versa, allowing computers or other network devices to communicate over the internet.
+
+Modems play a crucial role in internet access, establishing communication with the ISP to provide an internet connection.
+
+New generation modems often combine the features of switches and routers.
+
+
+
+**Types of Modems:-**
+
+
+
+Dial-Up Modems: Used to connect to the internet over telephone lines with data transfer speeds typically up to 56 kbps.
+
+
+
+DSL Modems: Operate over telephone lines but offer much higher data transfer speeds compared to dial-up modems. ADSL (Asymmetric Digital Subscriber Line) and VDSL (Very High Bitrate Digital Subscriber Line) are some types.
+
+
+
+Cable Modems: Use the television cable infrastructure to connect to the internet, providing higher data transfer speeds compared to DSL modems.
+
+
+
+Fiber Optic Modems: Use fiber optic cables for data transmission, offering very high-speed internet access. They are typically preferred by businesses or applications requiring high speeds.
+
+
+
+Wireless Modems: Connect to the internet via mobile network technologies (3G, 4G/LTE, 5G), ideal for portable internet access.
+
