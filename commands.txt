@@ -1,0 +1,33 @@
+Day 1 Networking Commands
+
+----------------------------------------
+
+Command:
+ipconfig
+
+Purpose:
+Displays the IP configuration of my computer.
+
+----------------------------------------
+
+Command:
+ping google.com
+
+Purpose:
+Checks if my computer can communicate with Google's server.
+
+----------------------------------------
+
+Command:
+tracert google.com
+
+Purpose:
+Shows the path packets take from my computer to Google's server.
+
+----------------------------------------
+
+Command:
+nslookup google.com
+
+Purpose:
+Finds the IP address associated with a domain name.
