@@ -44,25 +44,27 @@ Instructions: Use the provided source context to develop comprehensive responses
 
 **Linux Networking Commands**
 
-Command	Description
-arp	Shows or changes the ARP cache; arp -n displays numeric addresses.
-curl / wget	Tools used to download files from the internet; curl -o saves a file to the current directory.
-dig / nslookup	Commands used to perform DNS lookups and query DNS servers.
-hostname	Displays or changes the system's hostname.
-ifconfig	Used to show or configure network interfaces (e.g., ifconfig eth0 up).
-ifplugstatus	Checks if an ethernet cable is physically plugged into an interface.
-iftop	Displays real-time bandwidth usage; -i specifies the interface.
-ip addr	Shows or changes IP addresses; replaces older tools like ifconfig.
-ip link	Shows or configures network interface states (e.g., ip link set eth0 down).
-ip route	Shows or changes the system routing table.
-iwconfig	Manages wireless network interfaces and shows information for wlan0.
-mtr	A tool combining ping and traceroute to provide a live view of network paths.
-netstat / ss	Show active network sockets and statistics; -tuln shows listening sockets.
-ping	Sends ICMP echo requests to test connectivity to a destination.
-route	Shows or configures the routing table; route -n shows numeric addresses.
-tcpdump	A command-line network packet analyzer; used to capture and show traffic.
-traceroute	Traces the route packets take to a destination; tracepath is a simplified version.
-whois	Looks up registration information for a specific IP or domain.
+| Command | Description |
+|----------|-------------|
+| `arp` | Displays or modifies the ARP cache. Use `arp -n` to display numeric IP and MAC addresses. |
+| `curl` / `wget` | Downloads files or retrieves data from the internet. Example: `curl -o file.txt <URL>` saves a file locally. |
+| `dig` / `nslookup` | Performs DNS lookups and queries DNS servers to resolve domain names. |
+| `hostname` | Displays or changes the system's hostname. |
+| `ifconfig` | Displays or configures network interfaces (legacy command). Example: `ifconfig eth0 up`. |
+| `ifplugstatus` | Checks whether an Ethernet cable is physically connected to a network interface. |
+| `iftop` | Monitors real-time network bandwidth usage. Use `-i` to specify a network interface. |
+| `ip addr` | Displays or configures IP addresses and network interfaces. Modern replacement for `ifconfig`. |
+| `ip link` | Displays or changes the state of network interfaces (e.g., enable/disable interfaces). |
+| `ip route` | Displays or modifies the system routing table. |
+| `iwconfig` | Configures and displays information about wireless network interfaces (e.g., `wlan0`). |
+| `mtr` | Combines the functionality of `ping` and `traceroute` to provide a live view of network paths and latency. |
+| `netstat` / `ss` | Displays active network connections, listening ports, routing tables, and socket statistics. Example: `netstat -tuln`. |
+| `ping` | Sends ICMP Echo Requests to test connectivity and measure network latency to a destination. |
+| `route` | Displays or modifies the routing table. Use `route -n` to display numeric IP addresses. |
+| `tcpdump` | Command-line packet analyzer used to capture and inspect network traffic in real time. |
+| `traceroute` | Displays the path packets take to reach a destination. `tracepath` is a simplified alternative. |
+| `whois` | Retrieves domain registration and IP ownership information from WHOIS databases. |
+
 
 **Networking Concepts and Protocols**
 
